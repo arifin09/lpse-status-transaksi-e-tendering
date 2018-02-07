@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "tahun": "2011",
+      "jumlah_lelang": 1,
+      "nilai_pagu": "Rp. 330,850,000",
+      "nilai_pagu_selesai": "Rp. 894,941,798,770",
+      "jumlah_lelang_selesai": 1,
+      "nilai_hasil_lelang": "Rp. 324,120,000",
+      "selisih_pagu_selesai_dan_hasil_lelang": "Rp. 6,730,000",
+      "selisih_pagu_selesai_dan_hasil_lelang_(%)": "2.03 %"
+    },
+    {
+      "id": 2,
+      "tahun": "2012",
+      "jumlah_lelang": 442,
+      "nilai_pagu": "Rp. 894,941,798,770",
+      "nilai_pagu_selesai": "Rp. 894,941,798,770",
+      "jumlah_lelang_selesai": 442,
+      "nilai_hasil_lelang": "Rp. 850,665,333,206",
+      "selisih_pagu_selesai_dan_hasil_lelang": "Rp. 44,276,465,564",
+      "selisih_pagu_selesai_dan_hasil_lelang_(%)": "4.95 %"
+    }
+  ]
+}
