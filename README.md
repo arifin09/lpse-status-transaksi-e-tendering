@@ -159,6 +159,9 @@ Vue.component('echarts-status-transaksi-e-tendering-kota', StatusTransaksiEtende
 import StatusTransaksiEtenderingTahun from './components/bantenprov/status-transaksi-e-tendering/StatusTransaksiEtenderingTahun.chart.vue';
 Vue.component('echarts-status-transaksi-e-tendering-tahun', StatusTransaksiEtenderingTahun);
 
+import StatusTransaksiEtenderingTable from './components/bantenprov/status-transaksi-e-tendering/StatusTransaksiEtenderingTable.vue';
+Vue.component('echarts-status-transaksi-e-tendering-table', StatusTransaksiEtenderingTable);
+
 import StatusTransaksiEtenderingAdminShow from './components/bantenprov/status-transaksi-e-tendering/StatusTransaksiEtenderingAdmin.show.vue';
 Vue.component('admin-view-status-transaksi-e-tendering-tahun', StatusTransaksiEtenderingAdminShow);
 
