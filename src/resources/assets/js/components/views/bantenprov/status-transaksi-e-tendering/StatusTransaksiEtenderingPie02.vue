@@ -80,7 +80,7 @@ export default {
           },
           label: {
             show: true,
-            fontSize: 8,
+            fontSize: 10,
             fontWeight: 'normal',
             fontStyle: 'normal',
             color: '#fff'

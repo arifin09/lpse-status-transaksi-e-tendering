@@ -1,44 +1,160 @@
 [
   {
     "xAxis": {
-      "type": "category",
+      "type": "Jumlah Lelang",
       "region": "Provinsi",
       "name": "Banten",
-      "yyyy": "2018",
+      "yyyy": "2011",
       "data": [
-        "SD/MI/Paket A",
-        "SMP/MTS/Paket B",
-        "SMA/SMK/Paket C"
+        "Jumlah Lelang",
+        "Jumlah Lelang Selesai"
       ]
     },
     "series": [
       {
         "data": [
-          120,
-          200,
-          150
+          1,
+          1
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2018",
+      "type": "Jumlah Lelang",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2012",
       "data": [
-        "SD/MI/Paket A",
-        "SMP/MTS/Paket F",
-        "SMA/SMK/Paket C"
+        "Jumlah Lelang",
+        "Jumlah Lelang Selesai"
       ]
     },
     "series": [
       {
         "data": [
-          50,
-          30,
-          350
+          442,
+          442
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Lelang",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2013",
+      "data": [
+        "Jumlah Lelang",
+        "Jumlah Lelang Selesai"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          780,
+          780
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Lelang",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2014",
+      "data": [
+        "Jumlah Lelang",
+        "Jumlah Lelang Selesai"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          622,
+          622
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Lelang",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2015",
+      "data": [
+        "Jumlah Lelang",
+        "Jumlah Lelang Selesai"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          706,
+          706
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Lelang",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2016",
+      "data": [
+        "Jumlah Lelang",
+        "Jumlah Lelang Selesai"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          481,
+          481
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Lelang",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017",
+      "data": [
+        "Jumlah Lelang",
+        "Jumlah Lelang Selesai"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          394,
+          394
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Lelang",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017",
+      "data": [
+        "Jumlah Lelang",
+        "Jumlah Lelang Selesai"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          10,
+          9
         ]
       }
     ]
